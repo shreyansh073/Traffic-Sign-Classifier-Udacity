@@ -49,6 +49,4 @@ tackle this problem, I introduced 2 dropout layers to after each activation of t
 connected layers to prevent overfitting. Finally, the hyperparameters were tuned using
 intuition and trial and error.
 
----
-
-For further details about the project refer to the project writeup.
+>For further details about the project refer to the project writeup.
